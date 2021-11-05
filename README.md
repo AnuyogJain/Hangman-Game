@@ -1,2 +1,2 @@
 # Hangman-game
-Hangman Game
+Hangman Game using C++
